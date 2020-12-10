@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-10T12:30:28.785Z" agent="5.0 (X11)" etag="GZVWT9_hMiDY7ufpc9kl" version="13.7.7" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-10T12:30:42.543Z" agent="5.0 (X11)" etag="mQj1kjLc_1iQWsdMHMf0" version="13.7.7" type="github">
   <diagram id="WIVu0mPp5h0rXaQMBpwR" name="Page-1">
     <mxGraphModel dx="1350" dy="775" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -105,7 +105,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="wkiomEM7Kk_rvFzbw4gm-20" value="Save last marker + alleles." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="520" y="530" width="120" height="60" as="geometry" />
+          <mxGeometry x="520" y="540" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wkiomEM7Kk_rvFzbw4gm-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wkiomEM7Kk_rvFzbw4gm-21" target="wkiomEM7Kk_rvFzbw4gm-17">
           <mxGeometry relative="1" as="geometry">
@@ -138,7 +138,7 @@
         <mxCell id="wkiomEM7Kk_rvFzbw4gm-36" value="chi-squared()" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
           <mxGeometry x="370" y="340" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="wkiomEM7Kk_rvFzbw4gm-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wkiomEM7Kk_rvFzbw4gm-38">
+        <mxCell id="wkiomEM7Kk_rvFzbw4gm-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="wkiomEM7Kk_rvFzbw4gm-38" target="wkiomEM7Kk_rvFzbw4gm-20">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="580" y="530" as="targetPoint" />
             <Array as="points">
