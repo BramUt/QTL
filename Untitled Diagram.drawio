@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-10T12:30:48.840Z" agent="5.0 (X11)" etag="ajSi3WRnwJmKCt4sbxXw" version="13.7.7" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-10T12:34:53.336Z" agent="5.0 (X11)" etag="BDO7UGxadJ6iNeGKOxTb" version="13.7.7" type="github">
   <diagram id="WIVu0mPp5h0rXaQMBpwR" name="Page-1">
     <mxGraphModel dx="1350" dy="775" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -157,6 +157,33 @@
         </mxCell>
         <mxCell id="wkiomEM7Kk_rvFzbw4gm-46" value="No" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="425" y="530" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="wkiomEM7Kk_rvFzbw4gm-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wkiomEM7Kk_rvFzbw4gm-47" target="wkiomEM7Kk_rvFzbw4gm-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wkiomEM7Kk_rvFzbw4gm-47" value="get_afstanden()" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="740" y="20" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wkiomEM7Kk_rvFzbw4gm-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wkiomEM7Kk_rvFzbw4gm-48" target="wkiomEM7Kk_rvFzbw4gm-49">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wkiomEM7Kk_rvFzbw4gm-48" value="Find markers with highest recombination frequency" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="740" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wkiomEM7Kk_rvFzbw4gm-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wkiomEM7Kk_rvFzbw4gm-49" target="wkiomEM7Kk_rvFzbw4gm-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wkiomEM7Kk_rvFzbw4gm-49" value="Find distances between start marker and every other marker." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="740" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wkiomEM7Kk_rvFzbw4gm-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wkiomEM7Kk_rvFzbw4gm-50" target="wkiomEM7Kk_rvFzbw4gm-54">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wkiomEM7Kk_rvFzbw4gm-50" value="Sort by distance." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="740" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wkiomEM7Kk_rvFzbw4gm-54" value="&lt;div&gt;Return&lt;/div&gt;&lt;div&gt;markers + distances&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="740" y="380" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
